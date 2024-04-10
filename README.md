@@ -47,7 +47,7 @@
 </summary>
 
 I am a Student Developer from Barcelona.
-- :telescope: I’m studying Management of Computer Systems & Cibersecurity.
+- :telescope: I’m studying System Administration & Cibersecurity.
   
 - :seedling: 2nd year student in Jaume Viladoms.
   
