@@ -18,7 +18,7 @@
 </p>
 <p align="center">
    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F773E4&center=true&vCenter=true&multiline=true&random=false&width=700&height=70&lines=Cibersecurity+and+System+Administration+Student;Management+of+Compute+Systems+Cibersecurity+Student" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F773E4&center=true&vCenter=true&multiline=true&random=false&width=700&height=70&lines=Cibersecurity+and+System+Administration+Student;Management+of+Compute+Systems+and+Cibersecurity" alt="Typing SVG" /></a>
 </p>
 <br/>
 <!-- Social badges section -->
